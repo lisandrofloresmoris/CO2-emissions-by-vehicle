@@ -20,6 +20,8 @@ In this project, I focused on analyzing CO2 vehicle emissions, a significant env
    To make the report more interactive, I added a Decomposition Tree on a new page. This allowed users to explore the dataset hierarchically, breaking down attributes step by step.  
    - For one attribute with high cardinality, I created bins to group the data into manageable categories and included it in the analysis.
    - Using AI, I identified the lowest average CO2 emissions for a specific powertrain type (Hybrid Electric Vehicle - HEV) along with the combination of attributes that contributed to this result.
+  
+   ![Insert Visualization Here](./Decomposition_tree.png)
 
 ## Key Visualizations
 - **Card Visual:** Shows the total vehicles analyzed.
